@@ -1,0 +1,62 @@
+body {
+  background-color: #003366; /* deep blue */
+}
+
+h1, h2 {
+  color: white;
+  text-align: center;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+
+thead {
+  background-color: #802a2a; /* red */
+  color: white;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+tfoot {
+  background-color: #ce3030; /* red */
+  color: white;
+}
+
+tfoot th {
+  padding: 20px;
+}
+
+button {
+  background-color: white;
+  color: #CC0000; /* red */
+  border: 2px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 5px 10px;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #CC0000; /* red */
+  color: white;
+}
+tbody{
+  background-color: #cd5252; /* red */
+  font-size: 2rem;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+#smile{
+  font-size: 30px;
+}
+#smile1{
+  font-size: 40px;
+}
